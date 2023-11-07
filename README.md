@@ -31,6 +31,9 @@
 
 ## About this project <a name="about-project"></a>
 
+The purpose of this project is to build a machine learning model from a non existing database to predict the popularity of a movie based on several features. The database is collected using web scrapping technique. In this project the website named [Sens Critique](https://www.senscritique.com/) has been used for scrapping to collect necessary data.
+
+**N.B. The author does not support web scrapping for piracy or any sort of unauthorized use of data from any website. This project is for education purpose only.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
