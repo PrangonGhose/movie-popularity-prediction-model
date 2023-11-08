@@ -43,6 +43,11 @@ The purpose of this project is to build a machine learning model from a non exis
 
 ### Key Features <a name="key-features"></a>
 
+- 500 pages of the website containing 16 movies each is scrapped and about page of each movie is also scrapped to collect necessary data.
+- This project is a great example of scrapping dynamically loaded data on a website.
+- Several features are considered in order to build the machine learning model for the prediction of a movie popularity.
+- The project uses `selenium` package to simulate a browser experience in order to load every page smoothly.
+- `Pandas` is used to generate a dataframe.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +59,7 @@ To clone the repository in local environment try following steps.
 ### Prerequisites
 
 - [x] A web browser like Google Chrome.
-- [x] A code editor like Visual Studio Code with Git and Node.js.
+- [x] A code editor like Visual Studio Code with `Git`, `Python3`, `Pandas`, `Selenium`.
 
 You can check if Git is installed by running the following command in the terminal.
 ```
@@ -62,14 +67,14 @@ $ git --version
 ```
 
 Likewise for Node.js and npm for package installation.
-```
+```bash
 $ python --version
 
 $ pip show pandas
 
 $ pip show numpy
 
-$ pip show sqllite3
+$ pip show selenium
 ```
 ### Setup
 
@@ -111,15 +116,6 @@ Feel free to check the [issues page](https://github.com/PrangonGhose/movie-popul
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- Future Features (optional) -->
-
-## 🔭 Future Features <a name="future features"></a>
-
-- [ ] Adding all datasets.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -133,6 +129,6 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Authors would like to thank:
--
+- [Sens Critique](https://www.senscritique.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
