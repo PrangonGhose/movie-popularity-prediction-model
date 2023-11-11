@@ -19,7 +19,6 @@
   - [Install](#install)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
-- [🔭 Future Features](#future-features)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
