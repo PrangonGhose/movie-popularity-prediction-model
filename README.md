@@ -75,6 +75,8 @@ $ pip show numpy
 
 $ pip show selenium
 ```
+**N.B. If any required package is missing, they must be installed using `pip install {package_name}` to ensure the proper use of the notebook.**
+
 ### Setup
 
 Clone the repository using [this link](https://github.com/PrangonGhose/movie-popularity-prediction-model.git).
